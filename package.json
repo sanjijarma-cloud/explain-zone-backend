@@ -2,6 +2,7 @@
   "name": "explain-zone-backend",
   "version": "1.0.0",
   "description": "Backend for Explain Zone app",
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
